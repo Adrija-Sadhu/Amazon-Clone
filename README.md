@@ -1,0 +1,1 @@
+This is Amazon clone. It is created using HTML & CSS
